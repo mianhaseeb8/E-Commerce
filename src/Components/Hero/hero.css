@@ -1,0 +1,38 @@
+.hero {
+    height: 100vh;
+    background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+    display: flex;
+}
+
+.handimg{
+    width: 90;
+    height: 90px;
+}
+.left-side{
+    margin-top: 100px;
+}
+.left-side p{
+    font-size: 70px;
+    font-weight: 600;
+}
+.left-side span{
+    display: flex;
+    font-size: 70px;
+}
+.hero-latest-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 310px;
+    height: 40px;
+    border-radius: 75px;
+    margin-top: 30px;
+    background: #ff4141;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
+.right-side img{
+    width: 500px;
+}
